@@ -173,10 +173,10 @@
           <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:mohit@brainwing.in">mohit@brainwing.in</a></p>
           <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: Monday - Friday: 10:00 AM to 7:00 PM</p>
           <ul class="list-unstyled list-inline list-social-icons">
-            <li class="tooltip-social facebook-link"><a href="www.facebook.com/BrainwingIndia" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
-            <li class="tooltip-social linkedin-link"><a href="https://www.linkedin.com/company/2623854?trk=prof-exp-company-name" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
-            <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
-            <li class="tooltip-social google-plus-link"><a href="https://plus.google.com/110572457499931895647/about" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
+            <li class="tooltip-social facebook-link"><a href="http://www.facebook.com/BrainwingIndia" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+            <li class="tooltip-social linkedin-link"><a href="https://www.linkedin.com/company/2623854?trk=prof-exp-company-name" data-toggle="tooltip" data-placement="top" target="_blank" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+            <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+            <li class="tooltip-social google-plus-link"><a href="https://plus.google.com/110572457499931895647/about" data-toggle="tooltip" data-placement="top" target="_blank" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
           </ul>
         </div>
 
