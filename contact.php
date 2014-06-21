@@ -168,9 +168,9 @@
             7, Gazdar Street, Chira Bazar<br>
              Mumbai 400002<br>
           </p>
-          <p><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: +91 - 9930226272</p>
+         <!-- <p><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: +91 - 9930226272</p>    Commented Mohit number out-->
 		  <p><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: +91 - 8097292722</p>
-          <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:mohit@brainwing.in">mohit@brainwing.in</a></p>
+          <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:darshit@brainwing.in">darshit@brainwing.in</a></p>
           <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: Monday - Friday: 10:00 AM to 7:00 PM</p>
           <ul class="list-unstyled list-inline list-social-icons">
             <li class="tooltip-social facebook-link"><a href="http://www.facebook.com/BrainwingIndia" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a></li>
